@@ -1,5 +1,5 @@
 # Justice League Team
 
-![./JusticeLeague.png]
+![./JusticeLeague.png](The super team)
 
 Git training repository
